@@ -142,6 +142,7 @@ printf "WRITABLE DIRECTORIES \n "
 printf "$find_writable_directories"
 printf "_____________________________________________________________\n\n"
 printf "_____________________________________________________________\n\n"
+printf "WRITABLE FILES \n"
 printf "$find_writable_files"
 
 
